@@ -9,4 +9,5 @@
 	git add .
 	git commit -m "说明文字"
 6. 上传本地代码
+	git pull
 	git push origin master
